@@ -1,0 +1,6 @@
+{
+  "name": "Project-101 Web Dashboard",
+  "description": "Anti-Theft App for Android companion web dashboard. Live GPS tracking, remote siren trigger, intruder screenshot capture, and lockscreen protection.",
+  "requestFramePermissions": ["geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

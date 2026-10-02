@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset 
+  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml"
+  xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+  <url>
+    <loc>https://anti-theft.sultanahmad.site/</loc>
+    <lastmod>2026-10-01</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>1.0</priority>
+    <image:image>
+      <image:loc>https://anti-theft.sultanahmad.site/og-image.png</image:loc>
+      <image:title>Anti-Theft App for Android — Remote Siren &amp; Live Web Dashboard</image:title>
+      <image:caption>Protect your Android phone from theft with remote screenshot capture, emergency siren alarm, quick settings block, lockscreen shutdown protection, and live GPS tracking.</image:caption>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://anti-theft.sultanahmad.site/download</loc>
+    <lastmod>2026-10-01</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.95</priority>
+    <image:image>
+      <image:loc>https://anti-theft.sultanahmad.site/og-download.svg</image:loc>
+      <image:title>Download Anti-Theft APK for Android — Direct APK Package</image:title>
+      <image:caption>Direct APK package download for Android 8.0+. Fast, safe, battery-optimized, no root required.</image:caption>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://anti-theft.sultanahmad.site/login</loc>
+    <lastmod>2026-10-01</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.85</priority>
+    <image:image>
+      <image:loc>https://anti-theft.sultanahmad.site/og-image.png</image:loc>
+      <image:title>Sign In — Anti-Theft App for Android Web Command Portal</image:title>
+      <image:caption>Sign in to your Anti-Theft companion dashboard to view live GPS locations, emergency siren, and screenshot controls.</image:caption>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://anti-theft.sultanahmad.site/pricing</loc>
+    <lastmod>2026-10-01</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.90</priority>
+  </url>
+  <url>
+    <loc>https://anti-theft.sultanahmad.site/faq</loc>
+    <lastmod>2026-10-01</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.85</priority>
+  </url>
+  <url>
+    <loc>https://anti-theft.sultanahmad.site/about</loc>
+    <lastmod>2026-10-01</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.80</priority>
+  </url>
+  <url>
+    <loc>https://anti-theft.sultanahmad.site/contact</loc>
+    <lastmod>2026-10-01</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.80</priority>
+  </url>
+  <url>
+    <loc>https://anti-theft.sultanahmad.site/forgot-password</loc>
+    <lastmod>2026-10-01</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.50</priority>
+  </url>
+  <url>
+    <loc>https://anti-theft.sultanahmad.site/privacy-policy</loc>
+    <lastmod>2026-10-01</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.60</priority>
+  </url>
+  <url>
+    <loc>https://anti-theft.sultanahmad.site/terms</loc>
+    <lastmod>2026-10-01</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.60</priority>
+  </url>
+</urlset>

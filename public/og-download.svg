@@ -1,0 +1,66 @@
+<svg width="1200" height="630" viewBox="0 0 1200 630" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0B0F17" />
+      <stop offset="100%" stop-color="#020617" />
+    </linearGradient>
+    <linearGradient id="cyanGrad" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#00E5FF" />
+      <stop offset="100%" stop-color="#38BDF8" />
+    </linearGradient>
+    <radialGradient id="glow" cx="50%" cy="50%" r="50%">
+      <stop offset="0%" stop-color="rgba(0, 229, 255, 0.25)" />
+      <stop offset="100%" stop-color="rgba(0, 229, 255, 0)" />
+    </radialGradient>
+  </defs>
+
+  <rect width="1200" height="630" fill="url(#bg)" />
+  <circle cx="950" cy="200" r="350" fill="url(#glow)" />
+  <circle cx="200" cy="500" r="250" fill="url(#glow)" opacity="0.6" />
+
+  <!-- Shield Icon -->
+  <g transform="translate(100, 100)">
+    <rect width="72" height="72" rx="20" fill="rgba(0, 229, 255, 0.12)" stroke="#00E5FF" stroke-width="2" />
+    <path d="M36 20 L50 26 V37 C50 46 44 53 36 56 C28 53 22 46 22 37 V26 Z" fill="none" stroke="#00E5FF" stroke-width="3.5" stroke-linecap="round" stroke-linejoin="round" />
+    <path d="M30 36 L34 40 L42 32" fill="none" stroke="#00E5FF" stroke-width="3" stroke-linecap="round" stroke-linejoin="round" />
+  </g>
+
+  <text x="190" y="148" font-family="'Plus Jakarta Sans', sans-serif" font-size="34" font-weight="800" fill="#FFFFFF" letter-spacing="1">
+    ANTI-THEFT APK
+  </text>
+  <text x="190" y="170" font-family="'JetBrains Mono', monospace" font-size="14" fill="#00E5FF" letter-spacing="2">
+    OFFICIAL ANDROID COMPANION DOWNLOAD
+  </text>
+
+  <!-- Title -->
+  <text x="100" y="270" font-family="'Plus Jakarta Sans', sans-serif" font-size="52" font-weight="800" fill="#FFFFFF">
+    Download Anti-Theft APK
+  </text>
+  <text x="100" y="335" font-family="'Plus Jakarta Sans', sans-serif" font-size="52" font-weight="800" fill="url(#cyanGrad)">
+    For Android — Free &amp; Safe
+  </text>
+
+  <!-- Subtitle -->
+  <text x="100" y="405" font-family="'Inter', sans-serif" font-size="22" fill="#94A3B8">
+    Direct APK Download • Android 8.0+ • Remote Control &amp; Location Tracking • No Root Required
+  </text>
+
+  <!-- Badges -->
+  <g transform="translate(100, 470)">
+    <rect width="180" height="48" rx="12" fill="rgba(255, 255, 255, 0.05)" stroke="#334155" />
+    <text x="90" y="30" font-family="'JetBrains Mono', monospace" font-size="14" fill="#E2E8F0" text-anchor="middle">v1.0.0 Stable</text>
+  </g>
+  <g transform="translate(300, 470)">
+    <rect width="200" height="48" rx="12" fill="rgba(255, 255, 255, 0.05)" stroke="#334155" />
+    <text x="100" y="30" font-family="'JetBrains Mono', monospace" font-size="14" fill="#E2E8F0" text-anchor="middle">Android 8.0 to 16</text>
+  </g>
+  <g transform="translate(520, 470)">
+    <rect width="210" height="48" rx="12" fill="rgba(16, 185, 129, 0.15)" stroke="#10B981" />
+    <text x="105" y="30" font-family="'JetBrains Mono', monospace" font-size="14" font-weight="700" fill="#10B981" text-anchor="middle">100% Virus Free</text>
+  </g>
+
+  <!-- Watermark -->
+  <text x="1100" y="580" font-family="'JetBrains Mono', monospace" font-size="14" fill="#64748B" text-anchor="end">
+    anti-theft.sultanahmad.site/download
+  </text>
+</svg>

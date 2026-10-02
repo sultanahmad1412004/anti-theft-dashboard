@@ -1,0 +1,69 @@
+User-agent: *
+Allow: /
+Allow: /login
+Allow: /download
+Allow: /pricing
+Allow: /faq
+Allow: /about
+Allow: /contact
+Allow: /privacy-policy
+Allow: /terms
+Disallow: /dashboard/
+Disallow: /admin/
+Disallow: /api/
+
+# Search Engine Crawlers
+User-agent: Googlebot
+Allow: /
+Allow: /login
+Allow: /download
+Allow: /pricing
+Allow: /faq
+Allow: /about
+Allow: /contact
+Disallow: /dashboard/
+Disallow: /admin/
+Disallow: /api/
+
+User-agent: Bingbot
+Allow: /
+Allow: /login
+Allow: /download
+Allow: /pricing
+Allow: /faq
+Allow: /about
+Allow: /contact
+Disallow: /dashboard/
+Disallow: /admin/
+Disallow: /api/
+
+User-agent: Applebot
+Allow: /
+Allow: /login
+Allow: /download
+Disallow: /dashboard/
+Disallow: /admin/
+
+User-agent: DuckDuckBot
+Allow: /
+Allow: /login
+Allow: /download
+Disallow: /dashboard/
+Disallow: /admin/
+
+# AI & LLM Discovery
+User-agent: GPTBot
+Allow: /
+Allow: /llms.txt
+
+User-agent: ClaudeBot
+Allow: /
+Allow: /llms.txt
+
+User-agent: PerplexityBot
+Allow: /
+Allow: /llms.txt
+
+# Canonical Sitemap and LLM documentation
+Sitemap: https://anti-theft.sultanahmad.site/sitemap.xml
+Host: https://anti-theft.sultanahmad.site

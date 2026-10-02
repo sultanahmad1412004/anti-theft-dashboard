@@ -1,0 +1,27 @@
+# Anti-Theft
+
+> Anti-Theft is an Android anti-theft app that lets you remotely control and protect your device from a web dashboard.
+
+## Features
+- Remote Screenshot Capture
+- Quick Settings Block on lock screen
+- Shutdown Protection
+- Remote Silent Mode
+- Live Location Tracking
+- Multi-Device Support
+
+## Pricing
+- Free tier available
+- Pro plan: $1/year
+
+## Platform
+- Android 8.0 (API 26) and above
+
+## Links
+- Website: https://anti-theft.sultanahmad.site
+- Download: https://anti-theft.sultanahmad.site/download
+- Pricing: https://anti-theft.sultanahmad.site/pricing
+- Developer: https://sultanahmad.site
+
+## Contact
+- Email: sultanahmad.real1@gmail.com
